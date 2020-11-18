@@ -1,5 +1,2 @@
 # hello-world
-hello-   demo
-just test
-
-测试分支2
+ 旨在应用spring框架，构建一个轻量的、尽量包含各个组件的试验性应用，在可以方便做微服务架构下的各种验证测试。
